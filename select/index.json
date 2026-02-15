@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "いはないお約束",
+  "base_artist": "d.j.ァネイロ",
+  "createdAt": "2026-02-15T05:08:02.027095Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "いはないお約束",
+      "artist": "d.j.ァネイロ",
+      "has_synced": false,
+      "path": "select/pl_01_いはないお約束_d.j.ァネイロ.txt"
+    }
+  ]
+}
